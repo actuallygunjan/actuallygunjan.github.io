@@ -12,13 +12,12 @@ endif::[]
 // Crosslinking
 ifdef::backend-pdf[]
 TIP: This resume is being regularly updated. An up to date copy is available in HTML at 
-     https://www.actuallygunjan.com[www.actuallygunjan.com] or via downloadable PDF on 
-     https://www.andrewhowden.com/media/pdf/resume.pdf[the same website].
+     https://www.actuallygunjan.com[www.actuallygunjan.com][the same website] or via downloadable PDF on .
 endif::[]
 
 ifdef::backend-html5[]
 TIP: This resume is being regularly updated. However a printable PDF copy of the current version of this resume can be 
-     found https://www.andrewhowden.com/media/pdf/resume.pdf[attached to this website].
+     found https://www.actuallygunjan.com/media/pdf/resume.pdf[attached to this website].
 endif::[]
 
 CAUTION: Looking to embark myself on Web3 (or whatever you'd like to call it) - Crypto stuff

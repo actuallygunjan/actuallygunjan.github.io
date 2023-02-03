@@ -21,7 +21,7 @@ PATH_BUILD_CONFIGURATION := $(shell pwd)/build
 TIMESTAMP := $(shell date "+%s")
 
 help: ## Show this menu
-	@echo -e $(ANSI_TITLE)andrewhowden-com$(ANSI_OFF)$(ANSI_SUBTITLE)" - Common tasks for the resume website"$(ANSI_OFF)
+	@echo -e $(ANSI_TITLE)actuallygunjan-com$(ANSI_OFF)$(ANSI_SUBTITLE)" - Common tasks for the resume website"$(ANSI_OFF)
 	@echo -e "\nUsage: $ make \$${COMMAND} \n"
 	@echo -e "Variables use the \$${VARIABLE} syntax, and are supplied as environment variables before the command. For example, \n"
 	@echo -e "  \$$ VARIABLE="foo" make help\n"

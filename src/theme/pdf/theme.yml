@@ -261,7 +261,7 @@ footer:
   recto:
     #columns: "<50% =0% >50%"
     left: 
-      content: 'image:/etc/asciidoctor/logo.png[pdfwidth=.15in] | andrewhowden.com'
+      content: 'image:/etc/asciidoctor/logo.png[pdfwidth=.15in] | actuallygunjan.com'
     right:
       content: '{document-title} | {page-number}'
       #content: '{section-or-chapter-title} | {page-number}'
