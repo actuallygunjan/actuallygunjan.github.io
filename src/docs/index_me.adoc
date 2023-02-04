@@ -11,17 +11,17 @@ endif::[]
 
 // Crosslinking
 ifdef::backend-pdf[]
-TIP: This resume is being regularly updated. An up to date copy is available in HTML at
+TIP: This resume is being regularly updated. An up to date copy is available in HTML at 
      https://www.actuallygunjan.com[www.actuallygunjan.com][the same website] or via downloadable PDF on .
 endif::[]
 
 ifdef::backend-html5[]
-TIP: This resume is being regularly updated. However a printable PDF copy of the current version of this resume can be
+TIP: This resume is being regularly updated. However a printable PDF copy of the current version of this resume can be 
      found https://www.actuallygunjan.com/media/pdf/resume.pdf[attached to this website].
 endif::[]
 
 CAUTION: Looking to embark myself on Web3 (or whatever you'd like to call it) - Crypto stuff
-I may not be a stand-up comedian, but I am a stand-out software engineer who happens to be a passionate techie.
+I may not be a stand-up comedian, but I am a stand-out software engineer who happens to be a passionate techie. 
 
 == Personal Information
 
@@ -98,17 +98,17 @@ Write something about TCS here.
 <<<
 == Skills & Knowledge
 
-Specialising in developing open source software related to the development, deployment, monitoring and management of
+Specialising in developing open source software related to the development, deployment, monitoring and management of 
 internet facing software. List of competencies include:
 
 [cols="2,8"]
 |===
-h| Software Languages | Java · HTML · CSS · SASS · Bash · ECMAScript (JavaScript) · Golang · Python · Make · Ruby ·
+h| Software Languages | Java · HTML · CSS · SASS · Bash · ECMAScript (JavaScript) · Golang · Python · Make · Ruby · 
                         JSON+LD · RDFa · sh · SQL
-h| Frameworks         | Magento · Laravel · Symfony · Joolma · Hugo · Bootstrap · PostCSS · Phing · Grunt · Polymer ·
+h| Frameworks         | Magento · Laravel · Symfony · Joolma · Hugo · Bootstrap · PostCSS · Phing · Grunt · Polymer · 
                         RequireJS · Composer · Bower
 h| Operating Systems  | Linux · Windows · Debian · Ubuntu · CentOS · Arch · CoreOS
-h| Infrastructure     | Docker · Rkt · Kubernetes ·Virtualbox · NGINX · Apache HTTP · Docker Compose · Calico ·
+h| Infrastructure     | Docker · Rkt · Kubernetes ·Virtualbox · NGINX · Apache HTTP · Docker Compose · Calico · 
                         Flannel · TravisCI · Jenkins · Netcat · Tcpdump · cURL · Aptitude ·Yum · Picfit
 h| Monitoring         | Prometheus · Sensu · Logstash · Beats · Elasticsearch · Kibana · Grafana
 h| Testing            | Selenium · Facebook Web Driver · PHPUnit
@@ -117,7 +117,7 @@ h| Website Analysis   | Google Analytics · Chrome DevTools · Lighthouse · Goo
 h| Network Protocols  | HTTP/1.1 · HTTP/2 · FastCGI · TCP · UDP · TLS/SSL
 h| Cloud Services     | Amazon Web Services · Google Cloud · Let’s Encrypt
 h| Security           | Pass · PGP ·GnuPG · OpenSSL · HSTS · CSP · Nmap
-h| Development        | Boilr · Intellij IDEs · Atom · Git · Arcanist · Phabricator · GitHub · Request Tracker · Modd ·
+h| Development        | Boilr · Intellij IDEs · Atom · Git · Arcanist · Phabricator · GitHub · Request Tracker · Modd · 
                         strace · strings · xdebug · xdd
 |===
 
