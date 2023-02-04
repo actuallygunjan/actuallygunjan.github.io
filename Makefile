@@ -37,11 +37,11 @@ compile: ## Creates the website
 		--out-file public/media/pdf/resume.pdf
 
 	# Case Studies
-	asciidoctor --require=asciidoctor-bibtex src/docs/case-studies/* --destination-dir public/case-studies
-	asciidoctor-pdf src/docs/case-studies/* \
-		-a pdf-style=$$(pwd)/src/theme/pdf/theme.yml \
-		--require='asciidoctor-bibtex' \
-		--destination-dir public/case-studies
+	# asciidoctor --require=asciidoctor-bibtex src/docs/case-studies/* --destination-dir public/case-studies
+	# asciidoctor-pdf src/docs/case-studies/* \
+	# 	-a pdf-style=$$(pwd)/src/theme/pdf/theme.yml \
+	# 	--require='asciidoctor-bibtex' \
+	# 	--destination-dir public/case-studies
 
 .PHONY: letters
 letters: ## Creates the cover letters
