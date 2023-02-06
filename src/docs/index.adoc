@@ -21,7 +21,7 @@ TIP: This resume is being regularly updated. However a printable PDF copy of the
 endif::[]
 
 NOTE: Looking to embark myself on Web3 (or whatever you'd like to call it) - Crypto stuff
-I may not be a stand-up comedian, but I am a stand-out software engineer who happens to be a passionate techie.
+I may not be a stand-up comedian, but I am a stand-out software engineer.
 
 == Personal Information
 
@@ -34,83 +34,42 @@ h| Website   | https://github.com/actuallygunjan/actuallygunjan.github.io[www.ac
 
 == Professional Background
 
-=== N26 Bank
-
-// .3+<.>m|Write whatever
-
-[cols="2,3,5"]
-|===
-h| Dates    | 2022 - Present            .3+<.>|
+=== N26
+==== Sr. Software Engineer (2022 - Present)
 Building KYC backends for N26, integrating systems with multiple KYC providers for various markets.
 Building a self-organizing team, partially fulfilling the role of engineering manager
-h| Location | Berlin, Germany (Hybrid)
-h| Role     | Sr. Software Engineer
-|===
 
 === Zalando SE
+==== Sr. Software Engineer (2020 - 2022)
 
-[cols="3,8"]
-|===
-h| Dates    | December 2019 - 2021
-h| Location | Berlin, Germany (Hybrid)
-h| Role     | Software Engineer
-|===
-
-- Worked for the Zalando Premium Logistics team to develop and maintain systems for same-day, next-day, and B2B deliveries. Also, extended support for return pick-ups of Zalando orders.
-- Contributed to the development of open-source APIs using [Zalando's API guidelines](https://opensource.zalando.com/restful-api-guidelines/). Also integrated systems with a third-party SaaS provider [Tiramizoo](https://tiramizoo.com/en/) (and others) with additional features.
-- Utilized Locust and [Vegeta](https://github.com/tsenart/vegeta) for load-testing and performance optimization for the popular Zalando cyber-week sale.
+Worked for the Zalando Premium Logistics team to develop and maintain systems for same-day, next-day, and B2B deliveries. Also, extended support for return pick-ups of Zalando orders.
 
 === Redmart
+==== Sr. Software Engineer (2018 - 2020)
+Designed and implemented a fulfillment system for SEA groceries using Scala, Play, MongoDB.
 
-[cols="3,8"]
-|===
-h|Dates     | 2018 - 2020
-h|Location  | Bengaluru, India
-h| Role     | Senior Software Engineer
-|===
+Utilized event sourcing and domain-driven development with Akka streams, RabbitMQ to build scalable, maintainable system
 
-- Designed and implemented a fulfillment system for SEA groceries using Scala, Play, MongoDB
-- Utilized event sourcing and domain-driven development with Akka streams, RabbitMQ to build scalable, maintainable system
-- Steering merger of Redmart fulfillment tech with Lazada post Alibaba acquisition
+Steering merger of Redmart fulfillment tech with Lazada post Alibaba acquisition
 
 === Société Générale
+==== Tech Lead
+Steering the initiative to migrate the monolithic application to a microservices architecture, using Java, Spring Boot, and PostgreSQL.
 
-[cols="3,8"]
-|===
-h| Dates    | 2017 - 2018
-h| Location | Bengaluru, India
-h| Role     | Tech lead
-|===
-
-- Steering the initiative to migrate the monolithic application to a microservices architecture, using Java, Spring Boot, and PostgreSQL.
-- Contributed to company-wide digital transformation initiative using Docker on private cloud, improving scalability and reliability (case study: [https://sysdig.com/wp-content/uploads/2019/01/societe-generale-case-study.pdf](https://sysdig.com/wp-content/uploads/2019/01/societe-generale-case-study.pdf)).
+Contributed to company-wide digital transformation initiative using Docker on private cloud, improving scalability and reliability; https://sysdig.com/wp-content/uploads/2019/01/societe-generale-case-study.pdf[case study]
 
 === Google
+==== Lead Software Engineer
 
-[cols="3,8"]
-|===
-h| Dates    | 2013 - 2016
-h| Location | Hyderabad, India
-h| Role     | Lead Software Engineer
-|===
+Designed and implemented APIs, data analytics platforms, monitoring and alerting platforms for digital marketing.
+
+Utilized MapReduce, BigTable, MegaStore and Google Cloud Spanner to implement data pipelines of advertising metrics.
+
+Led the containerization and deployment of applications using Borg (Kubernetes today, resulting in improved reliability and ease of deployment.
 
 === Tata Consultancy Services
+==== Software Engineer
 
-[cols="3,8"]
-|===
-h| Dates    | 2011 - 2013
-h| Location | Ahmedabad, India
-h| Role     | Software Engineer
-|===
-
-Write something about TCS here.
-
-==== Achievements
-
-- Achievement 1
-- Achievement 2
-
-<<<
 == Skills & Knowledge
 
 Specialising in developing open source software related to the development, deployment, monitoring and management of
@@ -118,19 +77,13 @@ internet facing software. List of competencies include:
 
 [cols="2,8"]
 |===
-h| Software Languages | Kotlin · Java · Python · HTML · CSS · SASS · Bash · ECMAScript (JavaScript) · Golang · · Make · Ruby ·
-                        JSON+LD · RDFa · sh · SQL
-h| Frameworks         | Magento · Laravel · Symfony · Joolma · Hugo · Bootstrap · PostCSS · Phing · Grunt · Polymer ·
-                        RequireJS · Composer · Bower
-h| Operating Systems  | Linux · Windows · Debian · Ubuntu · CentOS · Arch · CoreOS
-h| Infrastructure     | Docker · Kubernetes ·Virtualbox · NGINX · Apache HTTP · Docker Compose · Calico ·
-                        Flannel · TravisCI · Jenkins · Netcat · Tcpdump · cURL · Aptitude ·Yum · Picfit
-h| Monitoring         | Datadog · Logstash · Elasticsearch · Kibana · Grafana
-h| Testing            | Locust · Vegeta
-h| Website Analysis   | Google Analytics · Chrome DevTools · Lighthouse · Google PageSpeed Insights · Qualsys SSL Test
-h| Network Protocols  | HTTP/1.1 · HTTP/2 · TCP · UDP · TLS/SSL
-h| Cloud Services     | AWS · Google Cloud
-h| Security           | Pass · PGP ·GnuPG · OpenSSL · HSTS · CSP · Nmap
+h| Programming Languages    | Kotlin · Java · Python · Golang · TypeScript · JavaScript
+h| Frameworks               | SpringBoot · Play · AkkaStreams
+h| Infrastructure           | Docker · Kubernetes · Virtualbox · NGINX · Apache HTTP · Docker Compose · TravisCI · Jenkins
+h| Monitoring               | DataDog · Logstash · Elasticsearch · Kibana · Grafana
+h| Testing                  | Locust · Vegeta
+h| Network Protocols        | HTTP/1.1 · HTTP/2 · TCP · UDP · TLS/SSL
+h| Cloud Services           | AWS · Google Cloud
 |===
 
 <<<
