@@ -25,6 +25,7 @@ I may not be a stand-up comedian, but I am a stand-out software engineer.
 
 == Personal Information
 
+
 [cols="3,8,3,8"]
 |===
 h| Email     | mailto:deago.gunjan@gmail.com[deago.gunjan@gmail.com]                                  h| GitHub    | https://www.github.com/actuallygunjan/[@actuallygunjan]
